@@ -3,4 +3,7 @@ Aqui você encontra algumas aulas e desafios que a Alura, uma das maiores plataf
 
 Essas aulas ensinam um pouco de programação em *Python*, visualização de dados e aprendizado de máquina!
 
-__Observação:__ as aulas disponibilizam *links* para as video-aulas, entretanto estas somente estavam disponíveis durante a semana programada.
+__Observações:__
+- Os arquivos foram feitos no *Google Colaboratory* e passadas para esse repositório;
+- As aulas disponibilizam *links* para as video-aulas, entretanto estas somente estavam disponíveis durante a semana programada.
+
